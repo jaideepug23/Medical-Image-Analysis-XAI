@@ -1,1 +1,3 @@
-Tumor Detector Website - Project by Jaideep
+https://jaideeptumordetector.tiiny.site/
+
+Please Visit this website for Tumor/Skin Lesion Detection through our model.
