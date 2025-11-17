@@ -2,6 +2,16 @@
 
 ## A Simple Approach Using Semantic Segmentation and Attention Mapping
 
+##**How to Run**
+1) requirements.txt - All Python dependencies
+2) .gitignore - Configured to exclude: Python cache files, Virtual environments, Logs and temporary files and Jupyter checkpoints
+3) untitled0.py - To train and detect tumor and skin lesion
+4) EXAI Medical Image Analysis-Jaideep,Rishabh Singh and Chinmay.ipynb - Trained and performance metrices evaluated version of our model
+5) Use https://jaideeptumordetector.tiiny.site/ to directly determine tumor in an Brain CT Scan/MRI Scan Image or skin lesion.
+
+
+
+
 ### Authors
 - **Jaideep** (jaideep.ug23@nsut.ac.in)
 - **Rishabh Singh** (rishabh.singh.ug23@nsut.ac.in)
@@ -9,6 +19,19 @@
 
 **Department of Computer Science and Engineering**  
 **Netaji Subhas University of Technology (NSUT)**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
