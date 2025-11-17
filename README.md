@@ -2,7 +2,7 @@
 
 ## A Simple Approach Using Semantic Segmentation and Attention Mapping
 
-###**How to Run**
+### **How to Run**
 1) requirements.txt - All Python dependencies
 2) .gitignore - Configured to exclude: Python cache files, Virtual environments, Logs and temporary files and Jupyter checkpoints
 3) untitled0.py - To train and detect tumor and skin lesion
