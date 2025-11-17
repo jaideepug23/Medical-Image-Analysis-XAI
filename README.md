@@ -130,27 +130,6 @@ pip install scikit-image scikit-learn seaborn
 pip install basicsr facexlib gfpgan realesrgan
 pip install pydicom nibabel medpy
 ```
-
----
-
-## 🚀 Usage
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/jaideepug23/Medical-Image-Analysis-XAI.git
-cd Medical-Image-Analysis-XAI
-```
-
-### 2. Download Dataset
-Download the HAM10000 dataset from the link provided above and extract it to the `datasets/` folder.
-
-### 3. Run the Notebook
-```bash
-jupyter notebook Untitled0.ipynb
-```
-
-Or upload to Google Colab for GPU acceleration.
-
 ---
 
 ## 📁 Project Structure
@@ -161,10 +140,10 @@ Medical-Image-Analysis-XAI/
 ├── Untitled0.ipynb                 # Main Jupyter notebook
 ├── README.md                        # Project documentation
 ├── requirements.txt                 # Python dependencies
-├── research_paper.pdf              # Detailed research paper
+├── docs              # Detailed research paper
 │
 ├── datasets/
-│   └── ham10000/                   # Dataset directory
+│   └── archive.zip/                   # Dataset directory
 │       ├── HAM10000_images_part1/
 │       ├── HAM10000_images_part2/
 │       └── HAM10000_metadata.csv
