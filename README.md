@@ -178,11 +178,11 @@ For detailed methodology, experiments, and results, please refer to the full res
 
 **Citation:**
 ```bibtex
-@article{jaideep2024explainable,
+@article{jaideep2025explainable,
   title={Explainable AI for Medical Image Analysis using Semantic Segmentation and Attention Mapping},
   author={Jaideep and Singh, Rishabh and Solanki, Chinmay},
   journal={Department of Computer Science and Engineering, NSUT},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -237,10 +237,10 @@ This project is open-source and available for academic and research purposes.
 
 ## ⭐ Acknowledgments
 
-We thank the faculty of the Department of Computer Science and Engineering, Netaji Subhas University of Technology, for their continuous support and guidance during this research.
+We thank the faculty of the Department of Computer Science and Engineering, Netaji Subhas University of Technology, for their continuous support and guidance during this research. Special gratitude to **Dr. Ankush Jain** and **Prof. Rohit Kumar Ahlawat** for their invaluable mentorship and guidance.
 
 Special thanks to the ISIC Archive for providing the dataset used in this study.
 
 ---
 
-**Made with ❤️ by NSUT Students | 2024**
+**Made with ❤️ by NSUT Students | 2025**
